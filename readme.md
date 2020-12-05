@@ -1,6 +1,6 @@
 # ACMW Neural Hack
 
-## Know movie
+## KnowMovie
 ## Movie Reviewer
 
 A lot of the times when we want to watch a new release or an old classic that we haven't watched yet, we get confused as to whether the movie is actually good before watching. To solve this problem, we generally go to the iMDB website to read the reviews about that movie. Some reviews will suggest it's a good movie and others say a conflicting thing which makes it more confusing for us.
